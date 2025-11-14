@@ -1,4 +1,4 @@
-# EZ_Labs_Assessment
+# Summarify
 # 🧠 Smart Research Assistant
 
 A simple AI-powered tool to upload research documents, generate summaries, ask questions, and test your understanding — all without needing an API key.
