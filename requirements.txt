@@ -1,23 +1,23 @@
-# 🤖 Language modeling
+# Language modeling
 transformers==4.41.2
 tokenizers==0.19.1
 sentencepiece==0.1.99
 torch
 
-# 📊 Core tools
+# Core tools
 streamlit==1.35.0
 numpy>=1.22
 pandas>=1.5
 
-# 📄 Document parsing
+# Document parsing
 PyMuPDF
 pdfplumber
 docx
 openpyxl
 
-# 📜 Developer UX
+# Developer UX
 rich
 
-# 🔍 Semantic search and pipelines
+# Semantic search and pipelines
 langchain
 faiss-cpu
